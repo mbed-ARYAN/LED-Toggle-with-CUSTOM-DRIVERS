@@ -1,3 +1,8 @@
+Thanks! Here's your final beginner-friendly README.md — updated with GPIO Pin 13 (PC13) as the LED pin for your STM32L433RC custom driver project:
+
+markdown
+Copy
+Edit
 # 🔌 STM32L433RC LED Toggle Using Custom Driver (STM32CubeIDE)
 
 This project shows how to **blink an LED** using a **custom GPIO driver** (written from scratch) on the **STM32L433RC** microcontroller.  
@@ -28,7 +33,7 @@ It's built using **STM32CubeIDE**, without HAL or LL libraries — only **regist
 
 ### 1. Clone or Download the Project
 
-```bash
+
 git clone https://github.com/mbed-ARYAN/LED-Toggle-with-CUSTOM-DRIVERS.git
 Or download as ZIP and extract it.
 
